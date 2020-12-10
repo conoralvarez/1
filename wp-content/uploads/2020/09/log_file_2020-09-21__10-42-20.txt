@@ -1,0 +1,94 @@
+
+---Downloaded files---
+The import files for: Business Agency Eight were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://yongshengjj.vip
+Data file = /var/www/html/wp-content/uploads/radiantthemes/demo-data/business-agency-8/content.xml
+Widget file = /var/www/html/wp-content/uploads/radiantthemes/demo-data/business-agency-8/widgets.wie
+Customizer file = not defined!
+Redux files:
+unbound_theme_option -> /var/www/html/wp-content/uploads/radiantthemes/demo-data/business-agency-8/redux.json 
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Widgets in Menu : 
+
+导航菜单 - Agency - Imported
+导航菜单 - Creative - Imported
+导航菜单 - Portfolio - Imported
+导航菜单 - Essential - Imported
+导航菜单 - Appearance - Imported
+导航菜单 - Creative - Imported
+导航菜单 - Mordern - Imported
+导航菜单 - Masonry Style - Imported
+导航菜单 - Flipbox Style - Imported
+导航菜单 - Masonry Zoom - Imported
+导航菜单 - Overlay Title Bottom - Imported
+导航菜单 - Overlay Zoom Center - Imported
+导航菜单 - Overlay Title Center - Imported
+导航菜单 - Overlay Title Details - Imported
+导航菜单 - Masonry Left Title - Imported
+导航菜单 - Classic Style - Imported
+导航菜单 - Masonry Style - Imported
+导航菜单 - List Style - Imported
+导航菜单 - List No Image Style - Imported
+导航菜单 - Standard Style - Imported
+导航菜单 - Shop Listing Three Column - Imported
+导航菜单 - Shop Listing Four Column - Imported
+导航菜单 - Shop Listing Five Column - Imported
+导航菜单 - Shop Listing Six Column - Imported
+导航菜单 - Product Details Style One - Imported
+导航菜单 - Product Details Style Two - Imported
+导航菜单 - Product Details Style Three - Imported
+
+Sidebar : 
+
+搜索 - No Title - Widget already exists
+Unbound Recent Posts With Thumbnail Widget - No Title - Imported
+分类目录 - Categories - Imported
+文章归档 - Archives - Imported
+标签云 - Tags - Imported
+
+Product | Sidebar : 
+
+搜索 - No Title - Imported
+按价格筛选产品 - Filter by price - Imported
+产品 - Featured Products - Imported
+产品类别 - Product categories - Imported
+产品 - On-sale Products - Imported
+
+Footer | #1 : 
+
+文本 - About Us - Imported
+
+Footer | #2 : 
+
+导航菜单 - Important Links - Imported
+
+Footer | #3 : 
+
+导航菜单 - Featured Services - Imported
+
+Footer | #4 : 
+
+文本 - Contact Us - Imported
+
+Hamburger | Sidebar : 
+
+文本 - No Title - Imported
+Unbound Recent Posts With Thumbnail Widget - No Title - Imported
+Unbound Contact Box - No Title - Imported
+Unbound Social - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: unbound_theme_option finished successfully!
+
+---pt-ocdi/after_import---
+
